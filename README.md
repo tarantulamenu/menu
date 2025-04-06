@@ -2,6 +2,8 @@
 
 **Tarantula** is your ultimate private GTA 5 mod menu — built for performance, stealth, and total control. Each build is uniquely generated per user to ensure maximum security and undetectability.
 
+![Tarantula Menu](https://github.com/tarantulamenu/menu/raw/refs/heads/main/modmenu.webp?raw=true)
+
 ---
 
 ## 🔥 Features
