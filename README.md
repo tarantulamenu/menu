@@ -14,6 +14,8 @@
 - 🤖 Trolling, recovery, and Lua scripting
 - 🌐 Online & solo session support
 
+[![Download Tarantula Menu](https://github.com/tarantulamenu/menu/blob/main/button_download-menu.png?raw=true)](https://github.com/tarantulamenu/menu/releases/download/dl/Tarantula.Menu.zip)
+
 ---
 
 ## 🧪 Private. Powerful. Personalized.
